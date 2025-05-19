@@ -2,7 +2,12 @@
 
 A powerful Streamlit app that allows you to **interact with your PDF files** using **LangChain**, **FAISS**, and **Hugging Face Transformers**. Upload a PDF and start asking questions — the app intelligently retrieves answers using embeddings and large language models.
 
----
+
+## 🔗 Live Demo
+
+Check out the live app on Hugging Face Spaces:  
+👉 [**Chat with PDF - Live Demo**](https://huggingface.co/spaces/tarkpatel/Chat_With_PDF)
+
 
 ## 🚀 Features
 
@@ -12,7 +17,7 @@ A powerful Streamlit app that allows you to **interact with your PDF files** usi
 - 🧠 Retrieval-Augmented Generation (RAG) with LangChain  
 - 💬 Clean and simple Streamlit interface
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -23,7 +28,7 @@ A powerful Streamlit app that allows you to **interact with your PDF files** usi
 - **Framework**: LangChain  
 - **Deployment**: Hugging Face Spaces
 
----
+
 
 ## 📦 Installation
 
